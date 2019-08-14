@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"> => sa ses egale au meta tag sert au sharing
+
+    <link rel="stylesheet" href="main.css"> => sa sa sert a trouver ton css
+
+    <title>The world of retardation</title> => au titre que tu attribue a ta page en haut 
+
+</head>   
+<body>
+    <h1>The World of a retard</h1> => les h1-6 son toute des titre mais mour que google t'aime jamais plus que 1 h1 dans une page 
+
+    <h2>My many names</h2>
+    <p>Pussy Slayer the third, Fucken retard and Vape boi.</p> => au texte que tu etulise souvent parfois tu fait des fonts avec => demande a p-o de t'expliquer
+
+    <p><align-right>Jay Veilleux The pussy slayer!</align-right> </p> 
+
+    </body>
+    <img src="despacito.PNG" alt="despacito.PNG"> => ton image doit toujour etre dans le dossier ou tu travail ou un dossier dans un dossier 
+
+    <p>You Like despacito boi ;)</p>
+    <link rel="stylesheet" href="main.css"> =>  sa sa te sert a rien de le caller en double sa te fait perdre de la rapiditer
+
+</html> => sert a distinguer ou commence et termine ta page html 5 mais plus tard cetain truc de ninja ton maitre vas t'apprendre 
+
+
+
+
+
+
+
+//*TON CTRL-Z EST TON MEILLEUR AMI DANS LA PROGRAMMATION *//
