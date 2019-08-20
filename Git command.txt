@@ -1,0 +1,12 @@
+etape pour git
+
+git status => pour voir 
+
+git add . => pour ajouter
+
+git status => pour assure toute est vert
+
+git commit -m "ton message ici"
+
+
+git push 
